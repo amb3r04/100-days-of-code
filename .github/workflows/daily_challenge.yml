@@ -1,0 +1,45 @@
+name: Daily 100 Days of Code Automation
+
+on:
+  schedule:
+    # 03:30 UTC is 09:00 AM IST (India Standard Time)
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      target_day:
+        description: 'Specific day number to generate up to (leave empty for automatic calculation based on date)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Configure Git Author
+        run: |
+          git config --global user.name "amb3r04"
+          git config --global user.email "amberchaurasia418@outlook.com"
+
+      - name: Run Daily Challenge Solver
+        env:
+          TARGET_DAY: ${{ github.event.inputs.target_day }}
+        run: |
+          python scripts/daily_solver.py
+
+      - name: Push Commits to GitHub
+        run: |
+          git push origin main
