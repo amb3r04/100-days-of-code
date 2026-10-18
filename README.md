@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 65 / 100** (115 problems completed)
+> **Current Progress:** **Day 66 / 100** (116 problems completed)
 
 ---
 
@@ -86,6 +86,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 63** | 15 Oct 2026 | `day63_q1.c` | $k^{\text{th}}$ smallest element in array |
 | **Day 64** | 16 Oct 2026 | `day64_q1.c` | Length of longest substring without repeating characters |
 | **Day 65** | 17 Oct 2026 | `day65_q1.c` | Valid Anagram check |
+| **Day 66** | 18 Oct 2026 | `day66_q1.c` | Two Sum (indices of elements adding to target) |
 
 ---
 
