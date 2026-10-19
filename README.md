@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 66 / 100** (116 problems completed)
+> **Current Progress:** **Day 67 / 100** (117 problems completed)
 
 ---
 
@@ -87,6 +87,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 64** | 16 Oct 2026 | `day64_q1.c` | Length of longest substring without repeating characters |
 | **Day 65** | 17 Oct 2026 | `day65_q1.c` | Valid Anagram check |
 | **Day 66** | 18 Oct 2026 | `day66_q1.c` | Two Sum (indices of elements adding to target) |
+| **Day 67** | 19 Oct 2026 | `day67_q1.c` | Merge two sorted arrays |
 
 ---
 
