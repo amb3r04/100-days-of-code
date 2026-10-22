@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 69 / 100** (119 problems completed)
+> **Current Progress:** **Day 70 / 100** (120 problems completed)
 
 ---
 
@@ -90,6 +90,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 67** | 19 Oct 2026 | `day67_q1.c` | Merge two sorted arrays |
 | **Day 68** | 20 Oct 2026 | `day68_q1.c` | Find missing number from 0 to n |
 | **Day 69** | 21 Oct 2026 | `day69_q1.c` | Find repeated element in single iteration |
+| **Day 70** | 22 Oct 2026 | `day70_q1.c` | Convert string to sentence case / title case |
 
 ---
 
