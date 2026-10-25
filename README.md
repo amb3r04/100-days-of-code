@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 72 / 100** (122 problems completed)
+> **Current Progress:** **Day 73 / 100** (123 problems completed)
 
 ---
 
@@ -93,6 +93,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 70** | 22 Oct 2026 | `day70_q1.c` | Convert string to sentence case / title case |
 | **Day 71** | 23 Oct 2026 | `day71_q1.c` | Create info.txt and write user data using fprintf |
 | **Day 72** | 24 Oct 2026 | `day72_q1.c` | Read existing file info.txt using fgets |
+| **Day 73** | 25 Oct 2026 | `day73_q1.c` | Count characters, words, and lines in a text file |
 
 ---
 
