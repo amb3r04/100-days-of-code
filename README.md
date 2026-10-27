@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 74 / 100** (124 problems completed)
+> **Current Progress:** **Day 75 / 100** (125 problems completed)
 
 ---
 
@@ -95,6 +95,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 72** | 24 Oct 2026 | `day72_q1.c` | Read existing file info.txt using fgets |
 | **Day 73** | 25 Oct 2026 | `day73_q1.c` | Count characters, words, and lines in a text file |
 | **Day 74** | 26 Oct 2026 | `day74_q1.c` | Copy source file to destination using fgetc and fputc |
+| **Day 75** | 27 Oct 2026 | `day75_q1.c` | Append text to existing file without overwriting |
 
 ---
 
