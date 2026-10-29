@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 76 / 100** (126 problems completed)
+> **Current Progress:** **Day 77 / 100** (127 problems completed)
 
 ---
 
@@ -97,6 +97,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 74** | 26 Oct 2026 | `day74_q1.c` | Copy source file to destination using fgetc and fputc |
 | **Day 75** | 27 Oct 2026 | `day75_q1.c` | Append text to existing file without overwriting |
 | **Day 76** | 28 Oct 2026 | `day76_q1.c` | Check file existence and read content |
+| **Day 77** | 29 Oct 2026 | `day77_q1.c` | Convert input.txt lowercase to uppercase and write to output.txt |
 
 ---
 
