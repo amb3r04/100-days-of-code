@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 78 / 100** (128 problems completed)
+> **Current Progress:** **Day 79 / 100** (129 problems completed)
 
 ---
 
@@ -99,6 +99,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 76** | 28 Oct 2026 | `day76_q1.c` | Check file existence and read content |
 | **Day 77** | 29 Oct 2026 | `day77_q1.c` | Convert input.txt lowercase to uppercase and write to output.txt |
 | **Day 78** | 30 Oct 2026 | `day78_q1.c` | Count vowels and consonants in text file |
+| **Day 79** | 31 Oct 2026 | `day79_q1.c` | Sum and average of integers in numbers.txt |
 
 ---
 
