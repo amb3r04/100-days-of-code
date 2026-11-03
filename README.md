@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 81 / 100** (131 problems completed)
+> **Current Progress:** **Day 82 / 100** (132 problems completed)
 
 ---
 
@@ -102,6 +102,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 79** | 31 Oct 2026 | `day79_q1.c` | Sum and average of integers in numbers.txt |
 | **Day 80** | 01 Nov 2026 | `day80_q1.c` | Store and read student records using fprintf and fscanf |
 | **Day 81** | 02 Nov 2026 | `day81_q1.c` | Enumeration for days (SUNDAY to SATURDAY) and integer values |
+| **Day 82** | 03 Nov 2026 | `day82_q1.c` | Enum for traffic lights (RED, YELLOW, GREEN) |
 
 ---
 
