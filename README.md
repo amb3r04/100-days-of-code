@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 83 / 100** (133 problems completed)
+> **Current Progress:** **Day 84 / 100** (134 problems completed)
 
 ---
 
@@ -104,6 +104,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 81** | 02 Nov 2026 | `day81_q1.c` | Enumeration for days (SUNDAY to SATURDAY) and integer values |
 | **Day 82** | 03 Nov 2026 | `day82_q1.c` | Enum for traffic lights (RED, YELLOW, GREEN) |
 | **Day 83** | 04 Nov 2026 | `day83_q1.c` | Enum for months and days count |
+| **Day 84** | 05 Nov 2026 | `day84_q1.c` | Enum SUCCESS, FAILURE, TIMEOUT status messages |
 
 ---
 
