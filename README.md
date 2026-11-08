@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 86 / 100** (136 problems completed)
+> **Current Progress:** **Day 87 / 100** (137 problems completed)
 
 ---
 
@@ -107,6 +107,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 84** | 05 Nov 2026 | `day84_q1.c` | Enum SUCCESS, FAILURE, TIMEOUT status messages |
 | **Day 85** | 06 Nov 2026 | `day85_q1.c` | Explicit enum values starting from 10 |
 | **Day 86** | 07 Nov 2026 | `day86_q1.c` | Menu choices (ADD, SUBTRACT, MULTIPLY) using enum & switch |
+| **Day 87** | 08 Nov 2026 | `day87_q1.c` | Enum for user roles (ADMIN, USER, GUEST) |
 
 ---
 
