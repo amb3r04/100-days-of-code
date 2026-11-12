@@ -1,0 +1,29 @@
+/**
+ * Day 91 - Question 141
+ * 
+ * Define a structure Student with name, roll_no, and marks, then read and print one student's data.
+ * 
+ * Test Cases:
+ * Test Case 1:
+ *   Input: Name: Asha
+Roll: 101
+Marks: 90
+ *   Output: Name: Asha | Roll: 101 | Marks: 90
+ *   Explanation: The program stores and displays one student's details using structure members.
+ */
+
+#include <stdio.h>
+
+struct Student {
+    char name[50];
+    int roll_no;
+    int marks;
+};
+
+int main() {
+    struct Student s;
+    if (scanf("%49s %d %d", s.name, &s.roll_no, &s.marks) == 3) {
+        printf("Name: %s | Roll: %d | Marks: %d\n", s.name, s.roll_no, s.marks);
+    }
+    return 0;
+}

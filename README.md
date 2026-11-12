@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 90 / 100** (140 problems completed)
+> **Current Progress:** **Day 91 / 100** (141 problems completed)
 
 ---
 
@@ -111,6 +111,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 88** | 09 Nov 2026 | `day88_q1.c` | Print all enum names and integer values using a loop |
 | **Day 89** | 10 Nov 2026 | `day89_q1.c` | Show that enums store integers by printing assigned values |
 | **Day 90** | 11 Nov 2026 | `day90_q1.c` | Struct with enum Gender |
+| **Day 91** | 12 Nov 2026 | `day91_q1.c` | Structure Student (name, roll_no, marks) |
 
 ---
 
