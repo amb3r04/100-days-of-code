@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 92 / 100** (142 problems completed)
+> **Current Progress:** **Day 93 / 100** (143 problems completed)
 
 ---
 
@@ -113,6 +113,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 90** | 11 Nov 2026 | `day90_q1.c` | Struct with enum Gender |
 | **Day 91** | 12 Nov 2026 | `day91_q1.c` | Structure Student (name, roll_no, marks) |
 | **Day 92** | 13 Nov 2026 | `day92_q1.c` | Store details of 5 students in array of structures |
+| **Day 93** | 14 Nov 2026 | `day93_q1.c` | Find and print student with highest marks |
 
 ---
 
