@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 96 / 100** (146 problems completed)
+> **Current Progress:** **Day 97 / 100** (147 problems completed)
 
 ---
 
@@ -117,6 +117,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 94** | 15 Nov 2026 | `day94_q1.c` | Function accepting structure parameter |
 | **Day 95** | 16 Nov 2026 | `day95_q1.c` | Function returning top student structure |
 | **Day 96** | 17 Nov 2026 | `day96_q1.c` | Employee structure with nested Date structure |
+| **Day 97** | 18 Nov 2026 | `day97_q1.c` | Binary file employee storage using fwrite and fread |
 
 ---
 
