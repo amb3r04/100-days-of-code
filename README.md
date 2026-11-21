@@ -4,7 +4,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 
 > **Reference:** [UPES 100 Days of Code Challenge](https://maitysoumik.github.io/basic-coding-with-c/)  
 > **Course Start Date:** 10 August 2026  
-> **Current Progress:** **Day 99 / 100** (149 problems completed)
+> **Current Progress:** **Day 100 / 100** (150 problems completed)
 
 ---
 
@@ -120,6 +120,7 @@ Solutions in **C** for the **UPES 100 Days of Code Daily Challenge**.
 | **Day 97** | 18 Nov 2026 | `day97_q1.c` | Binary file employee storage using fwrite and fread |
 | **Day 98** | 19 Nov 2026 | `day98_q1.c` | Compare two structs for equality |
 | **Day 99** | 20 Nov 2026 | `day99_q1.c` | Dynamic structure memory allocation using malloc |
+| **Day 100** | 21 Nov 2026 | `day100_q1.c` | Pointer to struct using -> operator |
 
 ---
 
